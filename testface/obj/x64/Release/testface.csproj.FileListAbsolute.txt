@@ -1,0 +1,10 @@
+F:\ch\人脸识别\广州万特WindowsSDK_CsharpC#\testface\testface\obj\x64\Release\testface.csprojAssemblyReference.cache
+F:\ch\人脸识别\广州万特WindowsSDK_CsharpC#\testface\testface\obj\x64\Release\testface.csproj.CoreCompileInputs.cache
+F:\ch\人脸识别\广州万特WindowsSDK_CsharpC#\testface\testface\obj\x64\Release\testface.exe
+F:\ch\人脸识别\广州万特WindowsSDK_CsharpC#\testface\testface\obj\x64\Release\testface.pdb
+F:\ch\人脸识别\广州万特WindowsSDK_CsharpC#\testface\testface\bin\testface.exe.config
+F:\ch\人脸识别\广州万特WindowsSDK_CsharpC#\testface\testface\bin\testface.exe
+F:\ch\人脸识别\广州万特WindowsSDK_CsharpC#\testface\testface\bin\testface.pdb
+F:\ch\人脸识别\广州万特WindowsSDK_CsharpC#\testface\testface\bin\x64\testface.exe.config
+F:\ch\人脸识别\广州万特WindowsSDK_CsharpC#\testface\testface\bin\x64\testface.exe
+F:\ch\人脸识别\广州万特WindowsSDK_CsharpC#\testface\testface\bin\x64\testface.pdb
